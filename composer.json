@@ -1,0 +1,21 @@
+{
+    "name": "acc/contact",
+    "description": "Description",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable":true,
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acc\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Acc\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
+}
