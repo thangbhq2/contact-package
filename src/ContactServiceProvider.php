@@ -1,6 +1,6 @@
 <?php
 
-namespace Acc\Contact;
+namespace Strykerz\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

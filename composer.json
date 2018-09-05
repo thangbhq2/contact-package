@@ -1,5 +1,5 @@
 {
-    "name": "acc/contact",
+    "name": "strykerz/contact",
     "description": "Description",
     "type": "library",
     "license": "MIT",
@@ -8,13 +8,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Acc\\Contact\\": "src/"
+            "Strykerz\\Contact\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Acc\\Contact\\ContactServiceProvider"
+                "Strykerz\\Contact\\ContactServiceProvider"
             ]
         }
     }
