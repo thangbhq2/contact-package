@@ -3,6 +3,12 @@
     "description": "Description",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Strykerz",
+            "email": "thang.strykerz@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable":true,
     "require": {},
